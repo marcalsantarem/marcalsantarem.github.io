@@ -1,0 +1,5 @@
+Notes:
+
+Cor dos detalhes azuis
+color: #032ebe;
+
